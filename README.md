@@ -17,6 +17,7 @@ Transform: what data cleaning or transformation was required.
 2. Converted all date(s) in both files to Pandas DateTime for consistentcy 
 3. Dropped unnesscary columns
 4. Set up schema in pgAdmin
+5. Renamed column heads due to reserved SQL words
 
 Load: the final database, tables/collections, and why this was chosen.
 
